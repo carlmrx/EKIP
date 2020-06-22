@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ekip</string>
+    <string name="prefs_file">com.example.ekip.PREFERENCE_FILE_KEY</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247742319153",
+    "firebase_url": "https://ekip-21516.firebaseio.com",
+    "project_id": "ekip-21516",
+    "storage_bucket": "ekip-21516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247742319153:android:e284f021a6a6a479a7a310",
+        "android_client_info": {
+          "package_name": "com.example.ekip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247742319153-0oeg9spph6d7q2q5i55kbs0698k5qiut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkielN3klYv0dtIyGHO3DRqsR3tsoXQ0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247742319153-0oeg9spph6d7q2q5i55kbs0698k5qiut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
