@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Ekip</string>
     <string name="prefs_file">com.example.ekip.PREFERENCE_FILE_KEY</string>
+    <string name="facebook_app_id">4028704623868470</string>
+    <string name="fb_login_protocol_scheme">fb4028704623868470</string>
+
 </resources>
